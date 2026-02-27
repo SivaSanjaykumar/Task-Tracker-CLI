@@ -7,7 +7,7 @@ A simple Command Line Interface (CLI) application built with Node.js to manage d
 ## 🚀 Project URL
 
 GitHub Repository:
-https://github.com/SivaSanjaykumar/Task-Tracker-CLI.git
+https://github.com/SivaSanjaykumar/Task-Tracker-CLI
 
 ---
 
@@ -15,7 +15,7 @@ https://github.com/SivaSanjaykumar/Task-Tracker-CLI.git
 
 Clone the repository:
 
-git clone https://github.com/SivaSanjaykumar/Task-Tracker-CLI.git
+git clone https://github.com/SivaSanjaykumar/Task-Tracker-CLI
 
 Navigate to project folder:
 

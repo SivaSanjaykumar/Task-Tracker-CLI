@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 const {addTask,listTask, updateTask, markInProgress, markDone, listProgress} = require("./tasksController")
 
 const command = process.argv[2]

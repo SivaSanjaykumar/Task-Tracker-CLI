@@ -47,7 +47,7 @@ function listTask(status){
             break;
 
         default:
-            
+            // Show all tasks if no status or empty status provided
             tasks.forEach(task => {
                 console.log(`${task.id}. ${task.title} [${task.status}]`);
             });

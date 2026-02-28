@@ -6,7 +6,7 @@ A simple Command Line Interface (CLI) application built with Node.js to manage d
 
 ## 🚀 Project URL
 
-https://sivasanjaykumar.github.io/Task-Tracker-CLI/
+https://roadmap.sh/projects/task-tracker
 
 ---
 
